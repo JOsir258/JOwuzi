@@ -1,5 +1,8 @@
 <template>
   <div>123333</div>
+  <div class="test">
+    xxxxx
+  </div>
 </template>
 <script>
 export default {
