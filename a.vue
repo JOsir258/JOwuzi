@@ -1,5 +1,5 @@
 <template>
-  <!-- html代码 -->
+  <div>123333</div>
 </template>
 <script>
 export default {
